@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Bee Bremium</string>
+    <string name="app_name">Bee Premium</string>
     <string name="facebook_app_id">609486200043266</string>
     <string name="fb_login_protocol_scheme">fb609486200043266</string>
     <string name="facebook_client_token">437d69e44face63c7775ba8c7c1b4b4c</string>
