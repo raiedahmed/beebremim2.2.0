@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>579468288578-323gjuka9at832e2uf9lk1ql3iqi8u38.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.579468288578-323gjuka9at832e2uf9lk1ql3iqi8u38</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>579468288578-n5a14bjfmi8hmc5q1b5uh5t874f5t1im.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBjdnndea_66gYM6jwkJYl6zg2zN92_MfI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>579468288578</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mujeza.premium</string>
+	<key>PROJECT_ID</key>
+	<string>mujezapremium-8fea9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mujezapremium-8fea9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:579468288578:ios:40661da7ae6c929c7ec3db</string>
+	<key>DATABASE_URL</key>
+	<string>https://mujezapremium-8fea9-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
